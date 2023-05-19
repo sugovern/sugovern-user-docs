@@ -1,0 +1,1 @@
+By using the button in this page, you can delete the DAO. Again, Metamask confirmation is needed for that to happen. This confirmation step also helps in terms of reducing the risk for unintended actions.

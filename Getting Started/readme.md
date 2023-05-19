@@ -1,0 +1,2 @@
+- Setting Up Metamask
+- Registering to SuGovern

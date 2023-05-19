@@ -1,0 +1,3 @@
+- Vote on Proposals
+- Check My Tokens
+- Delegate Tokens
